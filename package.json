@@ -1,0 +1,25 @@
+{
+  "name": "wix-personalia",
+  "version": "1.0.0",
+  "description": "Pesonalia NodeJS package for Wix platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabedxmpie/wix-personalia.git"
+  },
+  "keywords": [
+    "Wix",
+    "Personalia",
+    "XMPie",
+    "Skelton"
+  ],
+  "author": "AA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mabedxmpie/wix-personalia/issues"
+  },
+  "homepage": "https://github.com/mabedxmpie/wix-personalia#readme"
+}

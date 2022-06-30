@@ -1,10 +1,13 @@
 {
-  "name": "wix-personalia",
+  "name": "xmpie-wix-personalia",
   "version": "1.0.0",
-  "description": "Pesonalia NodeJS package for Wix platform",
+  "description": "Personalia NodeJS package for Wix platform",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "*"
   },
   "repository": {
     "type": "git",
